@@ -1,6 +1,6 @@
 <h1 align="center"><u> Install Kali Linux in termux </u></h1>
 
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/FFdump/refs/heads/main/Screenshot_2025_0413_104707.jpg))
+![GUI VERSION ](https://github.com/thakur2309/install-kali-termux/blob/main/020-NH-Rootless-KeX_s.png)
 
 <h3 align="center"> Preview!</h3>
 
