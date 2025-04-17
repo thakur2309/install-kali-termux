@@ -1,4 +1,4 @@
-<h1 align="center"><u> Install Kali Linux in termux </u></h1>
+<h1 align="center"><u> 📌Install Kali Linux in android😮 </u></h1>
 
 ![GUI VERSION ](https://github.com/thakur2309/install-kali-termux/blob/main/020-NH-Rootless-KeX_s.png)
 
@@ -6,7 +6,7 @@
 
 ### Termux Full Install and Setup 
 ```
-pkg update && pkg upgrade && pkg install git curl php figlet && git clone https://github.com/thakur2309/FFdump.git && cd FFdump && chmod +X start.sh && bash start.sh
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/install-kali-termux.git && cd install-kali-termux && chmod +x install-kali.sh && ./install-kali.sh
 ```
 
 ### [TERMUX] Packege Install Comments
@@ -15,24 +15,24 @@ pkg update && pkg upgrade && pkg install git curl php figlet && git clone https:
 pkg update && pkg upgrade -y
 ```
 ```
-pkg install git php curl figlet -y
+pkg install git -y
 ```
 ```
-git clone https://github.com/thakur2309/FFdump.git
+git clone https://github.com/thakur2309/install-kali-termux.git
 ```
 ```
-cd FFdump
+cd install-kali.sh
 ```
 ```
-chmod +X start.sh
+chmod +x install-kali.sh
 ```
 ```
-./start.sh
+./install-kali.sh
 ```
 
 ### Start Comment
 ```
-bash start.sh
+bash install-kali.sh
 ```
 
 
