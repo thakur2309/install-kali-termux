@@ -47,9 +47,15 @@ chmod +x install-kali.sh
 ./install-kali.sh
 ```
 
-### Start Comment
+### After installation complete run this command 
 ```
-bash install-kali.sh
+nethunter -r
+```
+```
+kex passwd 
+```
+```
+kex
 ```
 
 
