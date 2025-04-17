@@ -4,6 +4,23 @@
 
 <h3 align="center"> Preview!</h3>
 
+# Kali NetHunter Installation in Termux
+
+This repository allows you to install **Kali NetHunter** in Termux using an automated script. It's designed for beginners who want a portable Kali Linux environment on Android.
+
+## Requirements
+
+- Android device (No root required)
+- Termux app (latest version from F-Droid)
+- Stable internet connection
+- Minimum 5GB free internal storage
+
+## Features
+
+- One-click installation script
+- Installs all required dependencies
+- Auto error handling included
+
 ### Termux Full Install and Setup 
 ```
 pkg update && pkg upgrade && pkg install git && git clone https://github.com/thakur2309/install-kali-termux.git && cd install-kali-termux && chmod +x install-kali.sh && ./install-kali.sh
