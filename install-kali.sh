@@ -32,5 +32,4 @@ echo -e "\e[1;32m[+] Installing Kali NetHunter... This may take a few minutes.\e
 
 # Step 7: Auto-start NetHunter shell
 echo -e "\e[1;32m[+] Installation complete. Launching NetHunter shell...\e[0m"
-sleep 2
-nethunter
+
