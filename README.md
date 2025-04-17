@@ -38,7 +38,7 @@ pkg install git -y
 git clone https://github.com/thakur2309/install-kali-termux.git
 ```
 ```
-cd install-kali.sh
+cd install-kali-termux
 ```
 ```
 chmod +x install-kali.sh
