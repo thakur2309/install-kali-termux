@@ -1,6 +1,6 @@
 <h1 align="center"><u> 📌Install Kali Linux in android😮 </u></h1>
 
-![GUI VERSION ](https://github.com/thakur2309/install-kali-termux/blob/main/020-NH-Rootless-KeX_s.png)
+![GUI VERSION ](https://raw.githubusercontent.com/thakur2309/install-kali-termux/refs/heads/main/IMG_20250418_085226.jpg)
 
 <h3 align="center"> Preview!</h3>
 
