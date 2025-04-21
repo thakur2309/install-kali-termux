@@ -49,7 +49,7 @@ chmod +x install-kali.sh
 
 ### After installation complete run this command 
 ```
-nethunter -r
+nethunter
 ```
 ```
 kex passwd 
