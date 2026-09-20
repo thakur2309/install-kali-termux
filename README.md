@@ -1,6 +1,6 @@
 <h1 align="center"><u> 📌Install Kali Linux in android😮 </u></h1>
 
-![GUI VERSION ](https://raw.githubusercontent.com/thakur2309/install-kali-termux/refs/heads/main/IMG_20250418_085226.jpg)
+![GUI VERSION ](https://raw.githubusercontent.com/thakur2309/install-kali-termux/refs/heads/main/kali-cubes.jpg)
 
 <h3 align="center"> Preview!</h3>
 
